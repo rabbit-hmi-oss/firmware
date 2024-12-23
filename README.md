@@ -4,7 +4,7 @@
 --------------------------------------------------------------------------------------------------------------
 ## Changelog
 
-### rabbitOS v0.8.82.release https://github.com/rabbit-hmi-oss/firmware/releases/tag/v0.8.82
+### [rabbitOS v0.8.82.release](https://github.com/rabbit-hmi-oss/firmware/releases/tag/v0.8.82)
 - **Initial firmware public release**
   - Introduced **r-cade**: Collect accessories for your rabbit by interacting with r1.
   - Added **Magic Gallery**: A brand new photo album feature for your r1 device.
